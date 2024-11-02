@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Linear Regression from Scratch/*
+!/Linear Regression from Scratch/task/
+/Linear Regression from Scratch/task/*
+!/Linear Regression from Scratch/task/regression.py
+!/Linear Regression from Scratch/task/custom_linear_regression.py
